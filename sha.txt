@@ -1,3 +1,1 @@
-echo «  hi »> file.txt
-Essayer « git hash-object » avec un fichier 
-Editer le fichier en ajoutant un espace et lancer « git hash-object » https://git-scm.com/docs/git-hash-object
+sTest sha
